@@ -3,7 +3,7 @@ from email.message import EmailMessage
 
 
 EMAIL_LOGIN = 'deabcontato@gmail.com'
-EMAIL_SENHA = 'senai2021'
+EMAIL_SENHA = '##########'
 
 def envia_email(email_destino):
 
